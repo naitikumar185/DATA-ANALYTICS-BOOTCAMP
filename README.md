@@ -27,7 +27,7 @@ Hi there, I'm Naitik Kumar! 👋
 ---
 
 🏆 My Projects
-- **[Password Checker](https://github.com/naitikumar185/password-checker):** A simple tool to verify password strength and security.
+- **[Password Checker](https://github.com/naitikumar185/DATA-ANALYTICS-BOOTCAMP/blob/main/project%20password.ipynb):** A simple tool to verify password strength and security.
 - **[Bill Management System](https://github.com/naitikumar185/bill-management-system):** A Python + SQLite-based system for managing bills and invoices.
 - **[More Projects](https://github.com/naitikumar185):** Explore all my repositories here.
 
