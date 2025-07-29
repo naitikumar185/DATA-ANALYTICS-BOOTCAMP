@@ -9,7 +9,7 @@ Hi there, I'm Naitik Kumar! 👋
 
 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/naitik-kumar-408773377/)
-[GitHub]([https://github.com/naitikumar185)
+
 
 
 🛠 Skills
